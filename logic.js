@@ -22,7 +22,7 @@ const Makebubble = () => {
 }
 
 const time = () => {
-    let time = 6000; 
+    let time = 60; 
     setInterval(() => {
         if (time > 0) {
             time--;
